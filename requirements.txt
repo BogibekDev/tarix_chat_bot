@@ -1,0 +1,4 @@
+aiogram==3.*
+asyncpg==0.29.*
+python-dotenv==1.0.*
+openpyxl==3.1.*
